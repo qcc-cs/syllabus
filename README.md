@@ -8,7 +8,7 @@ Contact info:kkim@qcc.cuny.edu (Please, use your **tigermail.**.)
 - Mon 10:10AM-11:00AM
 - Tue 10:10AM-12:00PM
 - Thr 10:10AM-12:00PM
-- 
+
 ### Office hour at S-320A
 - Mon 09:10AM-10:00AM
 - Mon 11:10AM-12:00PM
