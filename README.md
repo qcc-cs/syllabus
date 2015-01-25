@@ -1,4 +1,4 @@
-#CS203-D124 - Algorithmic Problem Solving II -Spring 2014
+#CS203-D124 - Algorithmic Problem Solving II -Spring 2015
 ### Instructor: KWANG HYUN KIM
 Contact info:kkim@qcc.cuny.edu
 Please, use your **tigermail.**
