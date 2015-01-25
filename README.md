@@ -31,6 +31,10 @@ We will use 3 separate websites for this course. You need to sign-up using your 
 - **https://c9.io/** - Tools for development and collaboration.
 - **http://www.github.com** - Source management system for projects.
 
+### Student pack
+
+ - [Github student Developer Pack](https://education.github.com/pack)
+
 ### How to setup your tigermail with smartphone
 - iphone : http://www.qcc.cuny.edu/qccOnline/iphoneInst.html
 - android : http://www.qcc.cuny.edu/qccOnline/androidInst.html
