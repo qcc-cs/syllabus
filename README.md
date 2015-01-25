@@ -35,6 +35,11 @@ We will use 3 separate websites for this course. You need to sign-up using your 
 - iphone : http://www.qcc.cuny.edu/qccOnline/iphoneInst.html
 - android : http://www.qcc.cuny.edu/qccOnline/androidInst.html
 
+### icloud calendar
+
+- webcal://p05-calendars.icloud.com/published/2/T4P92Rcjs0aSqE6aR0ypBRc9YCh9hC9uFxSNPM9ckid0mF5eCOW3oEphUT9J_f5u1AP7KZKDNRgDbHPcQ274WdCsEUGNWQ1LwD8QKxjCXwg
+
+
 ### Undergraduate Research
 
 This is a research intensive course and students will do their research in small teams. The topic for the research project will be **"Solving the numerical problems in science with programming"**. Each group will find numerical problems in their science courses including mathematics and develop the C++ software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15 min presentation in the class room.
