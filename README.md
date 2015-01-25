@@ -38,11 +38,10 @@ We will use 3 separate websites for this course. You need to sign-up using your 
 ### icloud calendar
 
 - [icloud cladendar link](webcal://p05-calendars.icloud.com/published/2/T4P92Rcjs0aSqE6aR0ypBRc9YCh9hC9uFxSNPM9ckid0mF5eCOW3oEphUT9J_f5u1AP7KZKDNRgDbHPcQ274WdCsEUGNWQ1LwD8QKxjCXwg)
-
 ```
 webcal://p05-calendars.icloud.com/published/2/T4P92Rcjs0aSqE6aR0ypBRc9YCh9hC9uFxSNPM9ckid0mF5eCOW3oEphUT9J_f5u1AP7KZKDNRgDbHPcQ274WdCsEUGNWQ1LwD8QKxjCXwg
-
 ```
+-- [ics file](http://p05-calendars.icloud.com/published/2/T4P92Rcjs0aSqE6aR0ypBRc9YCh9hC9uFxSNPM9ckid0mF5eCOW3oEphUT9J_f5u1AP7KZKDNRgDbHPcQ274WdCsEUGNWQ1LwD8QKxjCXwg)
 
 
 ### Undergraduate Research
