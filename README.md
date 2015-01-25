@@ -25,12 +25,16 @@ Please, use your **tigermail.**
 ### April 16, 2015 is the last day to withdraw.
 
 ### Communication
-We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
-- **http://www.piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
+We will use 3 separate websites for this course. You need to sign-up using your [**tigermail**](https://tigermail.qcc.cuny.edu/).
+- **http://www.piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from [**app store**]() or [**playstore**]().
   - For sign-up: http://piazza.com/queensborough_cc/spring2015/cs203d124 with access code 203 or check your tigermail.
 - **https://c9.io/** - Tools for development and collaboration.
 - **http://www.github.com** - Source management system for projects.
- 
+
+### How to setup your tigermail with smartphone
+- iphone : http://www.qcc.cuny.edu/qccOnline/iphoneInst.html
+- android : http://www.qcc.cuny.edu/qccOnline/androidInst.html
+
 ### Undergraduate Research
 
 This is a research intensive course and students will do their research in small teams. The topic for the research project will be **"Solving the numerical problems in science with programming"**. Each group will find numerical problems in their science courses including mathematics and develop the C++ software to solve their problems. Each research group will submit the 4-6page design report and the code. They will also deliver 10-15 min presentation in the class room.
