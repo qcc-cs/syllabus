@@ -26,9 +26,9 @@ Please, use your **tigermail.**
 
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
-- **Piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
+- **http://www.piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
 - **https://c9.io/** - Tools for development and collaboration.
-- **bitbucket.org** - Source management system for projects.
+- **http://www.github.com** - Source management system for projects.
  
 ### Undergraduate Research
 
