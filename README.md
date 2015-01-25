@@ -8,9 +8,9 @@ Please, use your **tigermail.**
 - Thr 10:10AM-12:00PM at S-220
 
 ### Office hour at S-320A
-- Mon 09:10AM-10:00AM
-- Mon 11:10AM-12:00PM
-- Tue 12:10AM-01:00PM
+- Mon 09:00AM-10:00AM
+- Mon 11:00AM-12:00PM
+- Tue 12:00AM-01:00PM
 
 **TEXT**:C++ Without Fear by B. Overland, 2nd Edition, Prentice Hall Publishing
 ### Grading
@@ -27,7 +27,7 @@ Please, use your **tigermail.**
 ### Communication
 We will use 3 separate websites for this course. You need to sign-up using your **tigermail**.
 - **Piazza.com** - Q&A discussion board with course materials including project,quiz and test. Download the app from app store or playstore.
-- **sagemathcloud.com** - Tools for development and collaboration.
+- **https://c9.io/** - Tools for development and collaboration.
 - **bitbucket.org** - Source management system for projects.
  
 ### Undergraduate Research
